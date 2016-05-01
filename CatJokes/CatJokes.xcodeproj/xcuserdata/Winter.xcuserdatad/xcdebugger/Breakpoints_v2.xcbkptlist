@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CatJokes/ViewController.swift"
+            timestampString = "483828927.859029"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatJokes.ViewController.answerLabel.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "CatJokes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Winter/Documents/code/Apps/catjokesios2/CatJokes/CatJokes/ViewController.swift"
+                  timestampString = "483827538.927502"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatJokes.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; CatJokes.ViewController"
+                  moduleName = "CatJokes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Winter/Documents/code/Apps/catjokesios2/CatJokes/CatJokes/ViewController.swift"
+                  timestampString = "483827538.927625"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "158">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatJokes.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;CatJokes.ViewController&gt;"
+                  moduleName = "CatJokes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Winter/Documents/code/Apps/catjokesios2/CatJokes/CatJokes/ViewController.swift"
+                  timestampString = "483827538.927708"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CatJokes/ViewController.swift"
+            timestampString = "483828927.859029"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatJokes.ViewController.answerLabel.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "CatJokes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Winter/Documents/code/Apps/catjokesios2/CatJokes/CatJokes/ViewController.swift"
+                  timestampString = "483828761.810428"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatJokes.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; CatJokes.ViewController"
+                  moduleName = "CatJokes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Winter/Documents/code/Apps/catjokesios2/CatJokes/CatJokes/ViewController.swift"
+                  timestampString = "483828761.810517"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "158">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatJokes.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;CatJokes.ViewController&gt;"
+                  moduleName = "CatJokes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Winter/Documents/code/Apps/catjokesios2/CatJokes/CatJokes/ViewController.swift"
+                  timestampString = "483828761.8106"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
